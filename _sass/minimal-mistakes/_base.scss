@@ -2,6 +2,7 @@
    BASE ELEMENTS
    ========================================================================== */
 
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -126,6 +127,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
