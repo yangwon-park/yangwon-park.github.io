@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 코딩 테스트 - 01. Implementation (Python3)
+title: 코딩 테스트 - 02. Implementation (Python3)
 categories: cote
 tag: [python, algorithm, coding_test]
 toc: true 
