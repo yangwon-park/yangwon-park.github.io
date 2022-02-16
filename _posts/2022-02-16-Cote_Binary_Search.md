@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-
+<br/>
 
 # 순차 탐색
 
