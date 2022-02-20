@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 태블로 - 01. 데이터 연결하기
+title: 태블로 - 05. 속성별 비교를 위한 시각화
 categories: Tableau
 tag: [Tableau, Visualization]
 toc: true 
