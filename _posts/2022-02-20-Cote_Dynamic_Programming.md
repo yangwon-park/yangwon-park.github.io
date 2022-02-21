@@ -2,7 +2,7 @@
 layout: single
 title: 코딩 테스트 - 06. 동적 프로그래밍 (Python3)
 categories: cote
-tag: [python, algorithm, coding_test]
+tag: [python, algorithm, coding_test, DP]
 toc: true 
 author_profile: false
 sidebar:
