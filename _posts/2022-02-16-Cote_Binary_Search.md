@@ -2,7 +2,7 @@
 layout: single
 title: 코딩 테스트 - 05. Binary Search (Python3)
 categories: cote
-tag: [python, algorithm, coding_test]
+tag: [python, algorithm, coding_test, binary_search]
 toc: true 
 author_profile: false
 sidebar:

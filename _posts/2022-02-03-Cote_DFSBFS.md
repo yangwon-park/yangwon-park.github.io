@@ -2,7 +2,7 @@
 layout: single
 title: 코딩 테스트 - 03. DFS & BFS (Python3)
 categories: cote
-tag: [python, algorithm, coding_test]
+tag: [python, algorithm, coding_test, DFS&BFS]
 toc: true 
 author_profile: false
 sidebar:

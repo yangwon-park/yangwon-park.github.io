@@ -2,7 +2,7 @@
 layout: single
 title: 코딩 테스트 - 07. 최단 경로 (Python3)
 categories: cote
-tag: [python, algorithm, coding_test]
+tag: [python, algorithm, coding_test, shortest_path]
 toc: true 
 author_profile: false
 sidebar:

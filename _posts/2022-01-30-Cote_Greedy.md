@@ -2,7 +2,7 @@
 layout: single
 title: 코딩 테스트 - 01. Greedy (Python3)
 categories: cote
-tag: [python, algorithm, coding_test]
+tag: [python, algorithm, coding_test, greedy]
 toc: true 
 author_profile: false
 sidebar:
