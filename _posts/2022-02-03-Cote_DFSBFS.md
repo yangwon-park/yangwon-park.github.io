@@ -201,11 +201,11 @@ for _ in range(m):
     # 간선이 연결하는 두 정점의 번호 입력
     a, b = map(int, input().split())
     
-    # a와 b 노드가 연결돼어있다 = b와 a 노드가 연결돼어있다 (swap)
+    # a와 b 노드가 연결되어있다 = b와 a 노드가 연결돼어있다 (swap)
     graph[a].append(b)
     graph[b].append(a)
     
-    # 번확 작은 순서로 방문하기 때문에 sort()로 오름차순 정렬 시행
+    # 번호가 작은 순서로 방문하기 때문에 sort()로 오름차순 정렬 시행
     graph[a].sort()
     graph[b].sort()
 
