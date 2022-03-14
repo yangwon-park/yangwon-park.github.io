@@ -11,11 +11,30 @@ sidebar:
 
 <br/>
 
+# 대제목
+
+## 부제목
+
+<div class='notice--success'>
+    <h4>
+        패킷
+    </h4>
+    <br/>
+네트워크 전송의 용량 단위. 본디는 우편 용어로, Package(화물)와 Bucket(덩어리)의 합성어
+	<br/>
+    <br/>
+    <a href="https://namu.wiki/w/%ED%8C%A8%ED%82%B7" class="btn btn--info">나무위키 참고</a><br/>
+</div>
+<p align="center"><img src="https://user-images.githubusercontent.com/97505799/158157794-b7e4fc51-c20c-4c57-8a22-30dd5543355d.jpg" alt="URI" width="50%"></p>
+
+<br/>
 
 
 <div class='notice--warning'>
     <br/>
-    인프런 - 김영한님의 스프링 핵심 원리 강의를 정리한 내용들입니다. <br/><br/>
-    <a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
+    <h2>
+       인프런 - 김영한님의 <strong>모든 개발자를 위한 HTTP 웹 기본 지식</strong>을 정리한 내용입니다. <br/> 
+    </h2><br/>
+    <a href="https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
     <br/>
 </div>
