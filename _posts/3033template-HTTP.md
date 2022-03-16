@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HTTP 웹 기본 -01. 인터넷 네트워크
+title: HTTP 웹 기본 - 01. 인터넷 네트워크
 categories: http
 tag: [java, http, web]
 toc: true 
