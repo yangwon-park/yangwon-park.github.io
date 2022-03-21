@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SpringMVC - 01. 웹 애플리케이션 이해
-categories: http
+categories: spring
 tag: [java, spring, web]
 toc: true 
 author_profile: false

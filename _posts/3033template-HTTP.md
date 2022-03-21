@@ -1,8 +1,8 @@
 ---
 layout: single
-title: HTTP 웹 기본 - 01. 인터넷 네트워크
+title: SpringMVC - 01. 웹 애플리케이션 이해
 categories: http
-tag: [java, http, web]
+tag: [java, spring, web]
 toc: true 
 author_profile: false
 sidebar:
@@ -13,7 +13,16 @@ sidebar:
 
 # 대제목
 
-## 부제목
+## 소제목
+
+- HTTP 기반으로 동작
+- **정적** 리소스 + 기타 부가 기능 제공
+- 정적 HTML, CSS, JS, 이미지, 영상
+- ex) NGINX, APACHE
+
+# 
+
+
 
 <div class='notice--success'>
     <h4>
