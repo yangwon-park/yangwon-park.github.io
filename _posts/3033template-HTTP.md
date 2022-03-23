@@ -34,7 +34,7 @@ sidebar:
     <br/>
     <a href="https://namu.wiki/w/%ED%8C%A8%ED%82%B7" class="btn btn--info">나무위키 참고</a><br/>
 </div>
-<p align="center"><img src="https://user-images.githubusercontent.com/97505799/158157794-b7e4fc51-c20c-4c57-8a22-30dd5543355d.jpg" alt="URI" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97505799/159628192-6cfaadb9-4463-4fa4-ae83-d7777447cfb3.jpg" alt="URI" width="50%"></p>
 
 <br/>
 
