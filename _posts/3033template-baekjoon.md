@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 백준 1 (Python3)
+title: 백준 1149 - RGB 거리 (Python3)
 categories: baekjoon
 tag: [python, algorithm, coding_test]
 toc: true 
@@ -18,5 +18,8 @@ sidebar:
 
 
 ## 문제 해설
+
+
+
 
 
