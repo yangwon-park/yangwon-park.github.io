@@ -34,7 +34,7 @@ sidebar:
     <br/>
     <a href="https://namu.wiki/w/%ED%8C%A8%ED%82%B7" class="btn btn--info">나무위키 참고</a><br/>
 </div>
-<p align="center"><img src="https://user-images.githubusercontent.com/97505799/162895496-76beb4bb-5386-4b9f-9e18-5b56877bbb3b.jpg" alt="스티커" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97505799/163310759-080a0947-f7fa-4359-946b-b67fa499ddd9.jpg" alt="스티커" width="50%"></p>
 
 <br/>
 
@@ -42,8 +42,8 @@ sidebar:
 <div class='notice--warning'>
     <br/>
     <h2>
-       인프런 - 김영한님의 <strong>모든 개발자를 위한 HTTP 웹 기본 지식</strong>을 정리한 내용입니다. <br/> 
+       인프런 - 김영한님의 <strong>Spring DB 강의</strong>를 정리한 내용입니다. <br/> 
     </h2><br/>
-    <a href="https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
+    <a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
     <br/>
 </div>
