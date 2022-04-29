@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SpringMVC - 01. 웹 애플리케이션 이해
+title: JPA - 01. 영속성 관리
 categories: spring
 tag: [java, spring, web]
 toc: true 
@@ -38,12 +38,12 @@ sidebar:
 
 <br/>
 
-
 <div class='notice--warning'>
     <br/>
     <h2>
-       인프런 - 김영한님의 <strong>Spring DB 강의</strong>를 정리한 내용입니다. <br/> 
+       인프런 - 김영한님의 <strong>JPA 강의</strong>를 정리한 내용입니다. <br/> 
     </h2><br/>
-    <a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
+    <a href="https://www.inflearn.com/course/ORM-JPA-Basic/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
     <br/>
 </div>
+
