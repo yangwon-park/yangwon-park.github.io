@@ -46,4 +46,3 @@ sidebar:
     <a href="https://www.inflearn.com/course/ORM-JPA-Basic/dashboard" class="btn btn--info">김영한님 인프런 강의</a><br/>
     <br/>
 </div>
-
