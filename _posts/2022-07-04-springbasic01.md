@@ -15,8 +15,6 @@ sidebar:
 
 - 로버트 마틴이 정리한 좋은 객체 지향 설계를 위한 5가지 원칙
 
-<br>
-
 ## SRP (Single Responsibility Principle)
 
 - 단일 책임 원칙
